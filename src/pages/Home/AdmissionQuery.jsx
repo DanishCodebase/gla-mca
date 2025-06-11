@@ -163,7 +163,7 @@ export default function AdmissionQuery({ utmParams }) {
     };
 
     try {
-      const response = await fetch("https://nocolleges.com/submit.php", {
+      const response = await fetch("https://nocolleges.com", {
         method: "POST",
         body: JSON.stringify(dataToSend),
       });
