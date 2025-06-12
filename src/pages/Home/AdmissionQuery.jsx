@@ -49,7 +49,7 @@ const formFields = [
   //     { value: "1550", label: "B.Tech (AI & ML)" },
   //     { value: "4201", label: "BCA" },
   //     { value: "4101", label: "BBA" },
-  //     { value: "8410", label: "MBA" },
+  //     { value: "8410", label: "MCA" },
   //   ],
   // },
   {
@@ -263,7 +263,7 @@ export default function AdmissionQuery({ utmParams }) {
                 <div className="flex justify-between items-center mb-6">
                   <div>
                     <h2 className="text-2xl font-bold bg-gray-900 text-transparent bg-clip-text">
-                      Apply for Online MBA
+                      Apply for Online MCA
                     </h2>
                     {/* <p className="text-gray-600 text-sm mt-1">
                       Fill the form below and we'll get back to you
