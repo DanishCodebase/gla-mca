@@ -55,13 +55,14 @@ export default function HeroSection() {
                     </span>{" "}
                     <br className="hidden lg:block" />
                     <span className="text-gray-700 text-3xl lg:text-4xl">
-                      from India's Top Universities & Colleges
+                      Offered by Leading Universities in India
                     </span>
                   </h1>
 
                   <p className="text-lg text-gray-600 leading-relaxed max-w-lg">
-                    Advance with an Online MCA that blends academic excellence
-                    and practical skills—anytime, anywhere.
+                    Upgrade your career with an Online MCA—gain
+                    industry-relevant skills and academic excellence, anytime
+                    and from anywhere.
                   </p>
                 </div>
 
