@@ -7,25 +7,25 @@ export default function WhoShouldEnroll() {
     {
       icon: Briefcase,
       description:
-        "Professionals seeking management roles and business ownership",
+        "Ambitious professionals looking to step into leadership roles and start their own ventures",
       gradient: "from-blue-500 to-cyan-500",
     },
     {
       icon: Lightbulb,
       description:
-        "Individuals seeking significant salary growth and better opportunities",
+        "Career-focused individuals aiming to boost their income and unlock new job prospects",
       gradient: "from-purple-500 to-pink-500",
     },
     {
       icon: TrendingUp,
       description:
-        "Aspirants focused on achieving well-rounded career advancement",
+        "Goal-oriented professionals seeking comprehensive growth in their careers",
       gradient: "from-green-500 to-emerald-500",
     },
     {
       icon: GraduationCap,
       description:
-        "Learners who prefer studying from home while continuing their current job",
+        "Working professionals who want to upskill without leaving their current job",
       gradient: "from-orange-500 to-red-500",
     },
   ]
@@ -60,7 +60,7 @@ export default function WhoShouldEnroll() {
                 key={index}
                 className="group relative py-0 overflow-hidden border-0 shadow-lg hover:shadow-2xl transition-all duration-500 hover:-translate-y-2 bg-white/80 backdrop-blur-sm"
               >
-                <CardContent className="p-8">
+                <CardContent className="p-5 py-8">
                   {/* Icon with Gradient Background */}
                   <div className="relative mb-6 mx-auto">
                     <div

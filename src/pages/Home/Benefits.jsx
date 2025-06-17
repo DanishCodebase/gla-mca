@@ -13,51 +13,51 @@ export default function Benefits() {
   const features = [
     {
       icon: <Globe className="w-10 h-10 text-blue-400" />,
-      title: "Global Recognition & Prestige",
+      title: "Worldwide Recognition",
       description:
-        "Earn a globally recognized degree with the same prestige as an on-campus MCA.",
+        "Get a degree that's valued globally - just as prestigious as studying on campus.",
     },
     {
       icon: <Clock className="w-10 h-10 text-blue-400" />,
-      title: "Flexibility & Convenience",
+      title: "Study at Your Own Pace", 
       description:
-        "Enjoy the flexibility to study anytime, anywhere— perfect for working professionals.",
+        "Learn whenever and wherever works best for you, making it easy to balance work and studies.",
     },
     {
       icon: <TrendingUp className="w-10 h-10 text-blue-400" />,
-      title: "Career Advancement Opportunities",
+      title: "Boost Your Career Growth",
       description:
-        "Build leadership and strategic skills for senior roles or career shifts.",
+        "Develop the skills you need to move up to leadership roles and explore new career paths.",
     },
     {
       icon: <Users className="w-10 h-10 text-blue-400" />,
-      title: "Networking on a Global Scale",
+      title: "Connect Worldwide",
       description:
-        "Network globally with peers, alumni, and faculty from diverse industries.",
+        "Build relationships with students, graduates and teachers from around the globe.",
     },
     {
       icon: <GraduationCap className="w-10 h-10 text-blue-400" />,
-      title: "Access to Top-Tier Faculty & Resources",
+      title: "Learn from the Best",
       description:
-        "Learn from top faculty and access world-class resources and support services.",
+        "Study with expert teachers and get access to high-quality learning materials and support.",
     },
     {
       icon: <BookOpen className="w-10 h-10 text-blue-400" />,
-      title: "Continuous Skill Development",
+      title: "Always Stay Updated",
       description:
-        "Stay current with evolving business trends and real-world case studies.",
+        "Keep your knowledge fresh with the latest industry trends and real business examples.",
     },
     {
       icon: <DollarSign className="w-10 h-10 text-blue-400" />,
-      title: "Strong Return on Investment (ROI)",
+      title: "Great Value for Money",
       description:
-        "Boost your career growth and ROI with a degree that opens doors worldwide.",
+        "Invest in a degree that pays off by opening up better career opportunities worldwide.",
     },
     {
       icon: <Sliders className="w-10 h-10 text-blue-400" />,
-      title: "Specializations & Customization",
+      title: "Choose Your Path",
       description:
-        "Tailor your skills with specializations like Finance, Marketing, or Data Analytics.",
+        "Focus on areas that interest you most, whether it's Finance, Marketing or Data Analysis.",
     },
   ];
 

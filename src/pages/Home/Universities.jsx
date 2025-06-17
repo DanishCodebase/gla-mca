@@ -124,10 +124,10 @@ export default function Universities() {
       logo: galgotia,
       fee: "₹84,200",
       description: [
-        "Affordable and Transparent Fee Structure",
-        "Comprehensive Career Support Services",
-        "Robust Digital Learning Infrastructure",
-        "UGC Entitles University",
+        "Clear and Budget-Friendly Fee Plans",
+        "Complete Career Guidance and Support",
+        "State-of-the-Art Online Learning Platform",
+        "UGC Recognized University",
       ],
     },
     {
@@ -137,9 +137,9 @@ export default function Universities() {
       fee: "1,00,000",
       description: [
         "Dedicated Student Support",
-        "UGC-DEB Approved for Online Learning",
-        "AI-Powered Learning Platform",
-        "Global Exposure and Diverse Peer Group",
+        "UGC-DEB Certified Online Programs",
+        "Smart Learning Platform with AI Technology",
+        "International Network & Multicultural Environment",
       ],
     },
     {
@@ -148,10 +148,10 @@ export default function Universities() {
       logo: mmu,
       fee: "1,40,000",
       description: [
-        "Classroom-like online learning with real-time engagement",
-        "Study anytime, anywhere with full flexibility",
-        "UGC-approved courses for assured career growth",
-        "Learn from top academicians and industry experts",
+        "Interactive virtual classrooms with engaging live sessions",
+        "Flexible learning schedule to fit your lifestyle",
+        "UGC-approved programs designed for career advancement",
+        "Expert faculty from academia and industry leaders",
       ],
     },
     {
@@ -160,10 +160,10 @@ export default function Universities() {
       logo: geu,
       fee: "70,000",
       description: [
-        "Flexible learning – Study anytime, anywhere",
-        "Affordable & high ROI – Lower fees, high salary potential",
-        "Strong industry network – Connect with experts & alumni",
-        "Career acceleration – Fast-track promotions & leadership roles",
+        "Learn on your schedule – Study anytime, from anywhere",
+        "High value, low cost – Affordable fees with strong earning potential",
+        "Industry connections – Network with professionals and successful alumni",
+        "Boost your career – Advance quickly into promotions and leadership roles",
       ],
     },
     {
@@ -172,10 +172,10 @@ export default function Universities() {
       logo: uttaranchal,
       fee: "1,20,000",
       description: [
-        "Comprehensive Curriculum & Specializations",
-        "Academic Excellence & Accreditations",
-        "Career Support & Practical Exposure",
-        "Personalized Mentorship & Support",
+        "Well-rounded curriculum with in-demand specializations",
+        "High academic standards with recognized accreditations",
+        "Career guidance with hands-on industry exposure",
+        "One-on-one mentorship and dedicated support",
       ],
     },
     {
