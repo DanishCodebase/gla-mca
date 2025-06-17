@@ -3,33 +3,33 @@ import React, { useState, useRef, useEffect } from "react";
 const faqData = [
   {
     id: 1,
-    question: "What are the top colleges for online MCA in India?",
+    question: "What are the advantages of enrolling in an online MCA program?",
     answer:
-      "Top colleges for online MCA in India include Amity University Online, GLA Online University, Parul University, Chandigarh University, Lovely Professional University, UPES Online, Galgotia University, Sharda University Online, MMU University, GEU University, and Uttaranchal University and many more. These institutions are recognized for their quality education, flexible learning options, and comprehensive curricula.",
+      "An online MCA (Master of Computer Applications) program provides the flexibility to study at your convenience, making it ideal for working professionals and students with busy schedules. It is a cost-effective learning path that equips learners with industry-relevant knowledge, practical skills, and certification-based learning. The program also fosters better time management, encourages professional networking, and includes hands-on projects that prepare students for real-world IT roles.",
   },
   {
     id: 2,
-    question: "What are the fees for the GLA online MCA program?",
+    question: "Is an online MCA degree recognized and valid?",
     answer:
-      "The fees for GLA University’s online MCA program can vary based on the specialization and course duration. Generally, the fees range from INR 50,000 to INR 80,000 for the entire program. It’s recommended to visit GLA University’s official website for the most accurate and updated fee structure.",
+      "Yes, an online MCA degree is fully valid when offered by a university that is approved by the University Grants Commission (UGC) and recognized by the All India Council for Technical Education (AICTE). Accredited institutions, such as GLA University, Parul University, Manipal University, etc. provide programs that are widely accepted across India. These degrees are considered equivalent to regular on-campus MCA programs by major IT firms and multinational companies, especially when the curriculum includes relevant specializations and practical exposure.",
   },
   {
     id: 3,
-    question: "What are the reviews for Chandigarh University's online MCA?",
+    question: "Is GLA University Online programs accredited?",
     answer:
-      "Chandigarh University’s online MCA program is appreciated for its affordability, extensive course offerings, and student support services. The program is designed to cater to working professionals and offers various specializations. Reviews generally highlight the program’s practicality and value for money.",
+      "Yes, GLA University Online offers programs that are duly accredited by the appropriate academic and regulatory bodies. These online degrees are globally recognized and accepted by both employers and higher education institutions.",
   },
   {
     id: 4,
-    question: "Which is the best online MCA program in Finance in India?",
+    question: "What is the eligibility criteria for admission to an online MCA program?",
     answer:
-      "Several institutions offer highly regarded online MCA programs in Finance, including NMIMS Global Access, Symbiosis Centre for Distance Learning, and Amity University Online. These programs provide a robust curriculum focusing on financial management, investment analysis, and market operations.",
+      "To be eligible for admission into an online MCA program, candidates must have completed a bachelor's degree such as BCA, B.Sc. (Computer Science), B.Sc., B.Com., or B.A., with Mathematics as a subject at either the 10+2 level or during graduation.",
   },
   {
     id: 5,
-    question: "What are the fees for UPES online MCA?",
+    question: "What is the examination mode for online MCA programs in India?",
     answer:
-      "The (UPES) offers an online MCA program with fees typically ranging from INR 1,00,000 to INR 2,00,000 depending on the specialization and course duration. UPES is known for its focus on energy and infrastructure sectors, along with traditional MCA specializations.",
+      "The examination mode varies by university. While some institutions conduct exams at designated offline centers, many online universities conduct exams through online proctored systems. These enable students to appear for their assessments remotely under secure and monitored conditions.",
   },
 ];
 
